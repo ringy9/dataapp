@@ -2,10 +2,10 @@
     "data" : [
         {
           
-            "network": "is",
+            "network": "max",
             
-            "max_ban": "41520d44e3d06b49",
-            "max_int": "261588b3776ba31b",
+            "max_ban": "9c9fe6079b591cb9",
+            "max_int": "d4c24cc340f9a2ff",
             
             "is_app_key": "154b0d031",
             "is_ban": "DefaultBanner",
@@ -14,27 +14,32 @@
             "admob_ban": "ca-app-pub-3940256099942544/6300978111",
             "admob_int": "ca-app-pub-3940256099942544/1033173712",
 
-            "name": "Momo",
-            "photo": "https://www.dictionary.com/e/wp-content/uploads/2019/03/Momo-Challenge-2-236x300.jpg",
-            "voice": "https://assets.mixkit.co/videos/preview/mixkit-blogging-girl-down-the-street-with-his-cell-34487-large.mp4",
-            "video": "https://assets.mixkit.co/videos/preview/mixkit-blogging-girl-down-the-street-with-his-cell-34487-large.mp4",
+            "name": "Cartoon Cat",
+            "photo": "https://i.postimg.cc/xCxLCLKT/wonder-day-wallpapers-cartoon-cat-38.jpg",
+            "voice": "https://ringy9.github.io/dataapp/voice_1.mp3",
+            "video": "https://ringy9.github.io/dataapp/hero_video.mp4",
             "stories": [
-                "https://i.kym-cdn.com/photos/images/newsfeed/001/396/293/d6e.gif",
-                "https://i.kym-cdn.com/photos/images/newsfeed/001/466/129/3f7.jpg",
-                "https://i.kym-cdn.com/photos/images/newsfeed/001/392/195/56a.png",
-                "https://pm1.narvii.com/6919/8f80c35ee71165a22f109e2ca5cf345d23077209r1-640-828v2_hq.jpg",
-                "https://i.imgur.com/XiTALZT.jpeg",
-                "https://64.media.tumblr.com/982afb79b5a0f5eb0d8c7770363ef145/2ef1345c490566ef-07/s1280x1920/efbbd327bb250bf33b15debebcfaac8527038074.jpg"
+              "https://i.postimg.cc/nL1vyyrm/wonder-day-wallpapers-cartoon-cat-26.jpg",
+"https://i.postimg.cc/rFdNDZZ6/wonder-day-wallpapers-cartoon-cat-34.jpg",
+"https://i.postimg.cc/wx4kTYVc/wonder-day-wallpapers-cartoon-cat-36.jpg",
+"https://i.postimg.cc/T3gj9LXC/wonder-day-wallpapers-cartoon-cat-37.jpg",
+"https://i.postimg.cc/xCxLCLKT/wonder-day-wallpapers-cartoon-cat-38.jpg",
+"https://i.postimg.cc/L55BBxH1/wonder-day-wallpapers-cartoon-cat-4.jpg",
+"https://i.postimg.cc/SRPLZcst/wonder-day-wallpapers-cartoon-cat-8.jpg"
+               
             ],
             "wallpapers": [
-                "https://vibirai.ru/image/1507388.jpg",
-                "https://i.dailymail.co.uk/i/newpix/2018/08/02/00/4EC075BF00000578-0-image-a-68_1533164623557.jpg",
-                "https://i.kym-cdn.com/photos/images/newsfeed/001/396/293/d6e.gif",
-                "https://i.kym-cdn.com/photos/images/newsfeed/001/466/129/3f7.jpg",
-                "https://i.kym-cdn.com/photos/images/newsfeed/001/392/195/56a.png",
-                "https://pm1.narvii.com/6919/8f80c35ee71165a22f109e2ca5cf345d23077209r1-640-828v2_hq.jpg",
-                "https://i.imgur.com/XiTALZT.jpeg",
-                "https://64.media.tumblr.com/982afb79b5a0f5eb0d8c7770363ef145/2ef1345c490566ef-07/s1280x1920/efbbd327bb250bf33b15debebcfaac8527038074.jpg"
+              "https://i.postimg.cc/28PFhdg1/wonder-day-wallpapers-cartoon-cat-10.jpg",
+"https://i.postimg.cc/bvPxFyy8/wonder-day-wallpapers-cartoon-cat-21.jpg",
+"https://i.postimg.cc/d1t8w5Zx/wonder-day-wallpapers-cartoon-cat-22.jpg",
+"https://i.postimg.cc/nL1vyyrm/wonder-day-wallpapers-cartoon-cat-26.jpg",
+"https://i.postimg.cc/rFdNDZZ6/wonder-day-wallpapers-cartoon-cat-34.jpg",
+"https://i.postimg.cc/wx4kTYVc/wonder-day-wallpapers-cartoon-cat-36.jpg",
+"https://i.postimg.cc/T3gj9LXC/wonder-day-wallpapers-cartoon-cat-37.jpg",
+"https://i.postimg.cc/xCxLCLKT/wonder-day-wallpapers-cartoon-cat-38.jpg",
+"https://i.postimg.cc/L55BBxH1/wonder-day-wallpapers-cartoon-cat-4.jpg",
+"https://i.postimg.cc/SRPLZcst/wonder-day-wallpapers-cartoon-cat-8.jpg"
+
             ]
           
         }
